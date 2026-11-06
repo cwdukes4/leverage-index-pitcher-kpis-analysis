@@ -10,11 +10,11 @@ An LI of 1.00 is an average-leverage situation. Values above 1.00 are above aver
 ## Repository Structure
 | Notebook | Description |
 |---|---|
-| `01_basic_leverage_kpis.ipynb` | Baseline analysis: rule-based leverage definition and pitcher KPIs, overall vs. leverage |
-| `02_leverage_index_model.ipynb` | Builds the win expectancy table, event probabilities, and Leverage Index for each game state |
-| `03_pitcher_kpi_analysis.ipynb` | Joins LI to 2025 pitch data, buckets plate appearances into Low/Medium/High LI, and calculates pitcher KPIs and visuals |
+| `leverage kpis basic.ipynb` | Baseline analysis: rule-based leverage definition and pitcher KPIs, overall vs. leverage |
+| `Leverage Index.ipynb` | Builds the win expectancy table, event probabilities, and Leverage Index for each game state |
+| `Leverage KPI Analysis.ipynb` | Joins LI to 2025 pitch data, buckets plate appearances into Low/Medium/High LI, and calculates pitcher KPIs and visuals |
 
-`docs/` contains the full written project documentation.
+`Leverage Index Project Documentation` contains the full written project documentation.
 
 ## Methodology
 
